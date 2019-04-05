@@ -34,6 +34,7 @@ RUN set -ex; \
         libpng-dev \
         libpq-dev \
         libxml2-dev \
+        libsmbclient-php \
         libmagickwand-dev \
     ; \
     \
